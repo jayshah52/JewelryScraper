@@ -1,0 +1,12 @@
+Requirements for scraping:
+Python (pip included)
+Chrome Driver (Based on your current version of Chrome)
+
+Libraries used:
+Selenium (for interacting and scraping) (Might need to install if not installed)
+Can be done using command: pip install selenium
+(NOTE: We can use Beautiful Soup or scrapy for scraping based on the developers preference)
+Pandas (for converting data into csv)
+Can be installed using pip install pandas
+
+Please change PATH variable in the script to the location where you installed Chromedriver
